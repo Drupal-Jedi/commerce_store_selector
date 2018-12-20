@@ -1,0 +1,7 @@
+{
+  "name": "drupaljedi/commerce_store_selector",
+  "description": "Commerce store selector.",
+  "minimum-stability": "dev",
+  "homepage": "https://github.com/Drupal-Jedi/commerce_store_selector",
+  "type": "drupal-module"
+}
